@@ -1,4 +1,4 @@
-module github.com/rishichirchi/storage-node/node2
+module github.com/somnathu/storage-node/node2
 
 go 1.23.1
 

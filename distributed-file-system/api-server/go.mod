@@ -1,4 +1,4 @@
-module github.com/rishichirchi/api-server
+module github.com/somnathu/api-server
 
 go 1.23.1
 

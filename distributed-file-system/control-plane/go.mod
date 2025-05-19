@@ -1,4 +1,4 @@
-module github.com/rishichirchi/control-plane
+module github.com/somnathu/control-plane
 
 go 1.23.1
 

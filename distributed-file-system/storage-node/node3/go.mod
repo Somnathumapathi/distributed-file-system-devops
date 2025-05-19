@@ -1,4 +1,4 @@
-module github.com/rishichirchi/storage-node/node3
+module github.com/somnathu/storage-node/node3
 
 go 1.23.1
 
